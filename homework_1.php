@@ -8,7 +8,7 @@
 
 
 <?php
-    $n = $_POST['num'];
+    $n = $_GET['num'];
     $prod = 1;
     for($i=0, $sum = 0, $prod = 1; $i<$n; $i++)
     {
