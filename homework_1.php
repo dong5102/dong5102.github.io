@@ -3,10 +3,7 @@
 <title>Online PHP Script Execution</title>
 </head>
 <body>
-    <form method="POST" action="homework_1.php">
-        정수: <input type="text" name="num"/><br/>
-        <input type="submit" name="submit"/>
-    </form>
+    
 
 
 
